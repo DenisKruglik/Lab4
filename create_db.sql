@@ -1,0 +1,1 @@
+CREATE DATABASE qualified_teams;
